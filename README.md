@@ -17,11 +17,10 @@ Drive links redirect to videos and presentation files.
 
 •	To record student data via dedicated camera. 
 
-![](img/7.png)
+
 
 ![](img/9.png)
 
-![](img/8.png)
 
 ![](img/1.jpg)
 
